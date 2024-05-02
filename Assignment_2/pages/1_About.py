@@ -5,6 +5,7 @@
 import streamlit as st
 
 st.title('About Me')
+st.divider()
 
 st.header('Name')
 st.write('Connor S. Green')
@@ -14,20 +15,17 @@ st.write("March 9th, 2000")
 
 st.header('Hometown')
 st.write('Norfolk, VA')
-# image here
 
 st.header('Hobbies')
 st.write('Sailing')
-# image
+st.image('sailing.jpg')
 st.write('Racing')
-# image
-st.write('Gaming')
-# image
+st.image('racing.jpg')
 
 st.header('Career Goals')
-st.write('After graduation I will become a Naval Flight Officer. I hope to one day become '
-         'a pilot and fly helicopters')
+st.write('After graduation I will commission into the Navy and go'
+         'to flight school')
 
 st.header('ME!')
-# image of me
+st.image('me.png')
 
