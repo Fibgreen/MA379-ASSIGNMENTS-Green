@@ -18,9 +18,9 @@ st.write('Norfolk, VA')
 
 st.header('Hobbies')
 st.write('Sailing')
-st.image('sailing.jpg')
+st.image('sailing.png')
 st.write('Racing')
-st.image('racing.jpg')
+st.image('racing.png')
 
 st.header('Career Goals')
 st.write('After graduation I will commission into the Navy and go'
