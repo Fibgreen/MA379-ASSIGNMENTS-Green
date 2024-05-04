@@ -18,7 +18,7 @@ st.write('Norfolk, VA')
 
 st.header('Hobbies')
 st.write('Sailing')
-st.image('sailing.JPG')
+st.image('sailing.png')
 st.write('Racing')
 st.image('racing.png')
 
